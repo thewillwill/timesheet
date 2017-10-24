@@ -1,0 +1,26 @@
+
+.box-header {
+    background: darkblue;
+    color: white;
+}
+
+
+.box {
+    border: 1px solid grey;
+    margin-bottom: 25px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.number {
+	background: navy;
+	color: white;
+}
+
+th {
+	border-bottom: 1px black solid;
+}
+
+.employee-table {
+	width: 100%;
+}
